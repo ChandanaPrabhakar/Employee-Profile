@@ -1,6 +1,6 @@
 [build]
   base = "frontend"
-  command = "tsc -b && vite build"
+  command = "vite build"
   publish = "dist"
 
 [[redirects]]
