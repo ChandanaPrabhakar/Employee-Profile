@@ -42,7 +42,7 @@ src/
 ```
 Clone the repository:
 
-git clone https://github.com/chandanaprabhakar/staff-management.git
+git clone https://github.com/ChandanaPrabhakar/staff-management.git
 cd frontend
 
 Install dependencies:
