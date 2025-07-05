@@ -1,4 +1,4 @@
-#🧑‍💼 Staff Management Dashboard
+# 🧑‍💼 Staff Management Dashboard
 
 A simple React application for managing staff profiles — create new profiles and view existing ones. Built with React, React Router, and Tailwind CSS.
 
@@ -14,10 +14,8 @@ Built with reusable React components
 
 Navigation using React Router
 
-## 📸 Screenshots
-<!-- Add actual screenshot URLs if available -->
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 React
 
@@ -27,7 +25,7 @@ Tailwind CSS
 
 Lucide React Icons
 
-##📁 Folder Structure
+## 📁 Folder Structure
 
 ```
 src/
@@ -39,7 +37,7 @@ src/
 
 ```
 
-##📦 Installation
+## 📦 Installation
 
 ```
 Clone the repository:
